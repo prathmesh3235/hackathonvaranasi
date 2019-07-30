@@ -1,0 +1,40 @@
+k {
+    font-size: 205%;
+    font-family: fantasy;
+    padding-left: 16px;
+    padding-top: 11px;
+    text-shadow: 10px;
+    max-height: 15px;
+}
+body{
+    background-color: lightgray;
+    backface-visibility: visible;
+    background-image: url(thisisbg.PNG);
+   
+    
+}
+input {
+    position: absolute;
+    
+}
+N{
+     font-size: 205%;
+    font-family: fantasy;
+    padding-left: 16px;
+    padding-top: 11px;
+    text-shadow: 10px;
+    max-height: 15px;
+   
+}
+
+
+q{
+    align-items: center;
+    align-content: center;
+    padding-left: 630px;
+}
+y{
+    text-align: center;
+    align-items: center;
+    
+}

@@ -1,0 +1,65 @@
+k {
+  
+    font-family: fantasy;
+    padding-left: 250px;
+    padding-top: 20px;
+    text-shadow: 10px;
+    max-height: 5px;
+}
+body{
+    background-color: lightgray;
+    backface-visibility: visible;
+    background-repeat: no-repeat;
+    
+    
+    
+}
+input {
+    position: absolute;
+    
+}
+N{
+     font-size: 0px;
+    font-family: fantasy;
+    padding-left: 16px;
+    padding-bottom: 10px;
+        margin: 0;
+    
+   
+}
+
+
+button{
+    width: 505;
+    box-sizing: border-box;
+    padding: 20px 0;
+    text-align: center;
+    border: solid 1px black;
+    font font-weight:100;
+    display: block;
+    margin: 20px auto;
+    width: 50%;
+    padding-left: 200px;
+}
+y{
+    text-align: center;
+    align-items: center;
+    
+
+
+    
+}
+d{
+    font-size=0px;
+    font-family: fantasy;
+    padding-top: 11px;
+    position: relative;
+    left: 50px;
+    padding-right: 30px;
+     align-items: center;
+}
+z{
+   
+    
+    padding-bottom: 100px;
+}

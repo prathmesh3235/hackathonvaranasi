@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">????????? ????</string>
+
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">largeText</string>
+    <string name="ChangeLanguage"> ???? ????</string>
+</resources>
